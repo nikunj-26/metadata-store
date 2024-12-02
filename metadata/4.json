@@ -1,7 +1,7 @@
 {
   "name": "Huskar",
   "description": "The Sacred Warrior who thrives in the heat of battle.",
-  "image": "",
+  "image": "https://github.com/nikunj-26/metadata-store/blob/main/images/huskar.jpg",
   "attributes": [
     { "trait_type": "Role", "value": "Offlane" },
     { "trait_type": "Faction", "value": "Order of the Sacred Flame" },

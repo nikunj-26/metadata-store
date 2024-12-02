@@ -1,7 +1,7 @@
 {
   "name": "Drow Ranger",
   "description": "A master archer who commands the silence of the grave.",
-  "image": "",
+  "image": "https://github.com/nikunj-26/metadata-store/blob/main/images/drow.jpg",
   "attributes": [
     { "trait_type": "Role", "value": "Carry" },
     { "trait_type": "Faction", "value": "Drow Elves" },

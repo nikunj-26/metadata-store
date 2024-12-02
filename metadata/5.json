@@ -1,7 +1,7 @@
 {
   "name": "Juggernaut",
   "description": "The masked blade dancer who spins his way to victory.",
-  "image": "",
+  "image": "https://github.com/nikunj-26/metadata-store/blob/main/images/juggernaut.jpg",
   "attributes": [
     { "trait_type": "Role", "value": "Carry" },
     { "trait_type": "Faction", "value": "Isle of Masks" },

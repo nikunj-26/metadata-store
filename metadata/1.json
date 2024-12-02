@@ -1,7 +1,7 @@
 {
   "name": "Axe",
   "description": "The mighty Axe, a ferocious warrior of the battlefield.",
-  "image": "",
+  "image": "https://github.com/nikunj-26/metadata-store/blob/main/images/axe.jpg",
   "attributes": [
     { "trait_type": "Role", "value": "Initiator" },
     { "trait_type": "Faction", "value": "Red Mist Army" },
