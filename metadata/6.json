@@ -1,7 +1,7 @@
 {
   "name": "Underlord",
   "description": "The Pit Lord, commanding fiendish powers from the Abyss.",
-  "image": "https://github.com/nikunj-26/metadata-store/blob/main/images/underlord.jpg",
+  "image": "https://nikunj-26.github.io/metadata-store/images/underlord.jpg",
   "attributes": [
     { "trait_type": "Role", "value": "Offlane" },
     { "trait_type": "Faction", "value": "Abyssal Horde" },
