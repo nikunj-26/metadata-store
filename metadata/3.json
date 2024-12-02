@@ -1,0 +1,11 @@
+{
+  "name": "Drow Ranger",
+  "description": "A master archer who commands the silence of the grave.",
+  "image": "",
+  "attributes": [
+    { "trait_type": "Role", "value": "Carry" },
+    { "trait_type": "Faction", "value": "Drow Elves" },
+    { "trait_type": "Weapon", "value": "Bow and Arrows" },
+    { "trait_type": "Agility", "value": 85 }
+  ]
+}

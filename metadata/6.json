@@ -1,0 +1,11 @@
+{
+  "name": "Underlord",
+  "description": "The Pit Lord, commanding fiendish powers from the Abyss.",
+  "image": "",
+  "attributes": [
+    { "trait_type": "Role", "value": "Offlane" },
+    { "trait_type": "Faction", "value": "Abyssal Horde" },
+    { "trait_type": "Skill", "value": "Firestorm" },
+    { "trait_type": "Intelligence", "value": 77 }
+  ]
+}

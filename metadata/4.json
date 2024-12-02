@@ -1,0 +1,11 @@
+{
+  "name": "Huskar",
+  "description": "The Sacred Warrior who thrives in the heat of battle.",
+  "image": "",
+  "attributes": [
+    { "trait_type": "Role", "value": "Offlane" },
+    { "trait_type": "Faction", "value": "Order of the Sacred Flame" },
+    { "trait_type": "Skill", "value": "Life Break" },
+    { "trait_type": "Resilience", "value": 95 }
+  ]
+}

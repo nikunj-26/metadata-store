@@ -1,0 +1,11 @@
+{
+  "name": "Juggernaut",
+  "description": "The masked blade dancer who spins his way to victory.",
+  "image": "",
+  "attributes": [
+    { "trait_type": "Role", "value": "Carry" },
+    { "trait_type": "Faction", "value": "Isle of Masks" },
+    { "trait_type": "Weapon", "value": "Katana" },
+    { "trait_type": "Speed", "value": 88 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dazzle",
+  "description": "The Shadow Priest who bends light and darkness to heal and harm.",
+  "image": "",
+  "attributes": [
+    { "trait_type": "Role", "value": "Support" },
+    { "trait_type": "Faction", "value": "Dezun Order" },
+    { "trait_type": "Skill", "value": "Shadow Wave" },
+    { "trait_type": "Wisdom", "value": 80 }
+  ]
+}

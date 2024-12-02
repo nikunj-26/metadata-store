@@ -1,0 +1,11 @@
+{
+  "name": "Axe",
+  "description": "The mighty Axe, a ferocious warrior of the battlefield.",
+  "image": "",
+  "attributes": [
+    { "trait_type": "Role", "value": "Initiator" },
+    { "trait_type": "Faction", "value": "Red Mist Army" },
+    { "trait_type": "Weapon", "value": "Battleaxe" },
+    { "trait_type": "Strength", "value": 90 }
+  ]
+}
